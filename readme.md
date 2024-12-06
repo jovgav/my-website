@@ -1,5 +1,5 @@
 
 cc portfolio
 
-A brief description of what this project does and who it's for
+the work i have completed for creative coding with p5js in fall of 2024
 
