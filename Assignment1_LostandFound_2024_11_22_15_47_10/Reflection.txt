@@ -1,0 +1,16 @@
+Coder: Jovana Gavrilovic
+Partner: Aashita Verma
+
+The description I received from my partner was the following: "I lost an earring, it had 2 gold 3/4th of a circle hoops (small sized) that were connected at the two ends. At the bottom of the hoops it had a pink upside down tulip with a gold outline and the hoop and tulip were connected with a small tiny dull gold ring. The back part of the earring had a rubber closing thingy. I lost this in a club while partying with my best friend.
+
+In my interpretation of the image, I really wanted to almost animate the earring, making it the partying figure (as the object was lost in a club). I liked the idea of having the earring in the center of a dancefloor to some extent, partying the night away, imagining that the earring itself had so much fun at the club that it didn't get lost, but that it decided to enjoy its night!
+
+Given this theme I was aiming for, I really wanted the object to sit in the center of the canvas. I included a discoball for added clues that this was a dancefloor of some kind, and added diamond lights to elevate this "partying all night" element. I kept the background a dark blue to simulate a nighttime hurrah. 
+
+The tulip was probably the most difficult part of the code to write, in terms of ideating how I would go about doing so. The discoball and gold earring hoops both primarily consist of a metal material, and texture wasn't really a consideration or an issue. The tulip, however, is a flower, and I wasn't really sure how to give it added clues through code to create some sort of texture. I tried a various array of blendMode() commands (I think this command in general was the most tough to include in my code), but ultimately nothing really looked or felt quite right. I decided that keeping the tulip as a simple and clear shape was the best way to communicate the description I received. It's not fancy, but it is clear.
+
+Another issue I had when creating this image was figuring out how to use arc for creating the hoops. Because it has so many variables, it took me a while to really understand which variables were ascribed to what points in the arc. This was generally an issue for me (placement) as the coordinate system is not something I am used to, as a very noobie coder! Triangles, while a relatively simple shape, also took me a while to really understand how to place to get the shape and size I wanted.
+
+I think that when it came to my interpretation of the object description throughout building my code, I remained consistent in what I wanted to build and what I ultimately built. I think the only real alteration in interpretation came to the tulip. I googled images of tulips to try and decide what type of tulip I wanted to create: open, closed, elaborate, simple. I ultimately decided on my final shape because it was both achievable for me to make and the clearest translation from text to code/final image. 
+
+Overall, I had a lot of fun with this assignment! Even though this is our first project, I am so excited to continue learning p5js - the satisfaction I felt once a command "clicked" for me and translated properly on the screen was really great. 

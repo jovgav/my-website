@@ -1,0 +1,9 @@
+In my original optical illusion idea, I wanted a circle made up of smaller circles that alternated black and white stripes throughout. I included an image as a reference. This was a drawing I had done many years ago. I wanted to animate it in a way that made it look like the object was spinning.
+
+However, I quickly realized this would be an extraordinarily difficult design to replicate. So, I decided to keep this framework in mind but use different colors, instead of shapes, to animate my sketch in a way that made it look like it was spinning. 
+
+Ultimately, I relied on color and transparency to achieve my design. There is a colorwheel "illusion" that I pulled from. If you draw a colorwheel and spin it, all the colors blur together to make it look like the wheel is white instead of a rainbow. I wondered what this would look like in a digital form. Instead of turning white which I thought my sketch might, it ended up looking like it was spinning. I added lines to amplify dimension, so that it looks like the center is getting smaller or almost like this is a top spinning, with the center being the point.
+
+I thought this was a really interesting case study in how alternating color rather than shape can lead to the illusion of movement. It makes me wonder about the other ways in which the illusion of animation or movement can progress without actually animating a sketch in p5.
+
+I am not really sure how this illusion can exist in the real world. It might work in AR/VR design, to give the illusion of movement when a wearer is standing still, emphasizing the illusion that is inherent to AR/VR technological designs. It could be an interesting wearable design too! I can imagine it as a pattern for a shirt. It could also be a really interesting design to use on electronic billboards. 

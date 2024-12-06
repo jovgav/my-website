@@ -1,0 +1,11 @@
+Your assignment reflections
+
+My partners for this project were Diana, Ryan, and Shawki. The background of Ryan's story ultimately inspired my final sketch. He explained that his sketch was based on the meal he had the night before, which was a pasta dish with mushrooms. I included a reference to the mushrooms in the bottom left of the sketch. 
+
+Since Diana's sketch's midsection looked a bit like a bowtie to me, I decided to use Ryan's spaghetti legs (to which I added red tomato sauce) in combination with Diana's midsection, which I turned into a loaf of bread and bowtie pasta. 
+
+Shawki's head was rounded and I decided to make this bit the meatball head. I tried to get the face to resemble his sketch's face, and even used blue as a nod to his sketch. I wanted to add an element of body horror as an exquisite corpse is inherently Cronenberg-esque, so I decided to keep the meatball as an actual image juxtaposed against the more cartoonish 2D primitives of p5. I liked this melding of textures and styles. 
+
+To tie in the theme of a meal made flesh, I turned the cursor into a spoon, and when you click the corpse's mouth it eats! This is also meant to take the place of Shawki's sketch's tongue, and that's why it is pink.
+
+I think this assignment was a relief after last week's clock, which I found the most challenging to date. It also exposed to me how much i have learned so far in this class, as I faced almost no issues in creating this sketch! It did take me a little bit of time to properly import images into my sketch, but once I got that down I felt like I moved fluidly throughout the rest of the sketch. 

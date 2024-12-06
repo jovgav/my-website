@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.10.0/p5.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.10.0/addons/p5.sound.min.js"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Portrait - Jovana's Creative World</title>
+    <link rel="stylesheet" type="text/css" href="/style.css">
+    <style>
+        body {
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            margin: 0;
+            padding: 0;
+            font-size: 1.2rem;
+            line-height: 1.6;
+        }
+        
+        header {
+            padding: 10px 10px;
+        }
+        
+        nav ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+        
+        nav ul li {
+            margin: 0 15px;
+        }
+        
+        nav ul li a {
+            color: black;
+            text-decoration: none;
+            font-size: 0.9rem;
+        }
+        
+        main {
+            padding: 0px;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        
+        h1 {
+            text-align: center;
+            font-size: 1.8rem;
+            margin-bottom: 10px;
+        }
+        
+        p {
+            margin-bottom: 1.5em;
+        }
+
+        canvas {
+    border: 10px solid;
+    padding: 10px;
+    border-image: linear-gradient(
+        45deg,
+        gold,
+        pink,
+        gold,
+        pink,
+        gold
+    ) 1;
+    animation: borderRotate 4s ease infinite;
+}
+
+@keyframes borderRotate {
+    0% {
+        border-image: linear-gradient(
+            0deg,
+            rgb(174, 0, 255),
+            pink,
+            rgb(212, 0, 255),
+            pink,
+            gold
+        ) 1;
+    }
+    50% {
+        border-image: linear-gradient(
+            180deg,
+            rgb(47, 0, 255),
+            pink,
+            rgb(13, 0, 255),
+            pink,
+            rgb(238, 0, 255)
+        ) 1;
+    }
+    100% {
+        border-image: linear-gradient(
+            360deg,
+            rgb(255, 60, 0),
+            pink,
+            rgb(255, 42, 0),
+            pink,
+            rgb(193, 12, 2)
+        ) 1;
+    }
+}
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="website.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="project1.html">Lost & Found</a></li>
+                <li><a href="project2.html">Face Generator</a></li>
+                <li><a href="project3.html">Clock</a></li>
+                <li><a href="project4.html">Exquisite Corpse</a></li>
+                <li><a href="project5.html">Optical Illusion</a></li>
+                <li><a href="project6.html" style="text-decoration: underline;">Data Portrait</a></li>
+                <li><a href="project7.html">Autobiographical Game</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h2>Data Portrait</h2>
+        <p>Another sketch I am quite happy with! In this assignment, we were to collect some sort of data, and visualize it in any way we found to be appropriate. I wanted to lean into the visualization aspect of this, and tell a story that almost completely hid the fact that the sketch was inspired by data. My data portrait pertained to me, but wasn't really my data. Rather, I tracked how often my two cats (1) came to me for pets and (2) came just to hang out with me: in my room, on my bed, or just in my general vicinity. I did the pets break down per day (this correlates to how open the eyes are; the more closed the eyes, the more they came for pets). I combined the hanging out data as a total of all days combined (on the first mouse click, the eyes change size depending on this number). What I love about this final sketch is that it tells a story completely visually, and without knowing exactly what data is collected and how it correlates to the interactivity of the sketch itself, it seems ambiguous and hidden. This idea of "hidden" data in our current cultural climate is typically wrought with fear of government surveillance. I like that I was able to subvert this norm, creating a pretty cute and wholesome display of data.
+            <script src="../Data_Portrait_2024_11_26_23_23_14/sketch.js"></script>
+        </p> 
+    </main>
+
+    <footer>
+        <p>&copy; 2024 My Portfolio</p>
+    </footer>
+</body>
+</html>

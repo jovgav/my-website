@@ -1,0 +1,9 @@
+My data portrait pertained to me, but wasn't really my data. Rather, I tracked how often my two cats (1) came to me for pets and (2) came just to hang out with me: in my room, on my bed, or just in my general vicinity. I did the pets break down per day (this correlates to how open the eyes are; the more closed the eyes, the more they came for pets). I combined the hanging out data as a total of all days combined (on the first mousePressed, the eyes change size depending on this number). Here's the data:
+
+  Cypress coming for pets (per day): 1, 3, 2, 1, 2, 1, 2
+  Cypress coming to hang (total): 10
+  
+  Juniper coming for pets (per day): 2, 1, 4, 3, 3, 1, 3
+  Juniper coming to hang (total): 3
+
+For my design process, I almost wanted to make the data invisible; I didn't want my sketch to be obviously based on data, but rather a visual comparative of the behaviors of my two cats. I learned through this assignment that I actually really love the idea of translating data into a visual or narrative form. Maybe it's my English degree/TV and film career background, but I find this to be a really useful and interesting application of data: translating it to make it more palatable to a range of people who maybe wouldn't originally understand or value such data.

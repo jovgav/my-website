@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Project 1</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" type="text/css" href="/style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap" rel="stylesheet">  
+  <style>
+    #projectz nav ul li {
+      position: absolute;
+      transition: all 3s ease-in-out;
+    }
+
+    #projectz nav ul li a:hover {
+        color: rgb(0, 242, 255); 
+    }
+
+    #projectz nav ul li a {
+        font-family: 'Luckiest Guy', cursive;
+        font-weight: bold;
+        color: yellow; 
+        -webkit-text-stroke: 2px purple; 
+        font-size: 2rem;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Jovana's Creative World</h1>
+  </header>
+  <div id='heartz'>
+    <img src="/assets4html/asset2.gif"/> 
+  </div>
+  <div id="projectz">
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="project1.html">Lost & Found</a></li>
+        <li><a href="project2.html">Face Generator</a></li>
+        <li><a href="project3.html">Clock</a></li>
+        <li><a href="project4.html">Exquisite Corpse</a></li>
+        <li><a href="project5.html">Optical Illusion</a></li>
+        <li><a href="project6.html">Data Portrait</a></li>
+        <li><a href="project7.html">Autobiographical Game</a></li>
+      </ul>
+    </nav>
+  </div>
+
+  <script>
+    function moveLinks() {
+      const links = document.querySelectorAll('#projectz nav ul li');
+      const windowWidth = window.innerWidth - 150;
+      const windowHeight = window.innerHeight - 50;
+
+      links.forEach(link => {
+        const randomX = Math.random() * windowWidth;
+        const randomY = Math.random() * windowHeight;
+        
+        link.style.left = `${randomX}px`;
+        link.style.top = `${randomY}px`;
+      });
+    }
+
+    moveLinks();
+    setInterval(moveLinks, 15000);
+    window.addEventListener('resize', moveLinks);
+  </script>
+</body>
+</html>

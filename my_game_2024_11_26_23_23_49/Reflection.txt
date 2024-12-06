@@ -1,0 +1,11 @@
+This assignment was definitely challenging, as it took a lot of external learning in order to make my game playable. I used chatGPT throughout the creation of my game in order to ask questions and troubleshoot my code along the way. 
+
+Because of the mechanical difficulties in constructing my game, I really wanted to focus on the narrative element of it. The premise is that, after recently turning 28, I have been an adult officially for 10 years, and within those 10 years I have lived in 3 different cities, and had different "versions" of life within periods of those years. To reflect this, I ideated game play that would be representative of life at those various points.
+
+To navigate the game, you have to click through letters A-J. They go in alphabetical order from A-J. In my first game section, the crosswords reflect the period of my life when I was an undergad student studying English in Chicago. The crossword words contain a brief tale of my life at the time.
+
+The next section is the maze section, which is supposed to be reprsentative of a hike in LA. There are different collision points which if you interact with them another little story will pop up, to tell about my life at that time. 
+
+In the final section, the story is part of the background, and it is a very chill game wherein you can draw on a latte in a cup. I like this as the ending because it is definitely representative of where I am now in life, not just literally but also metaphorically, where I take life in stride. 
+
+In terms of the code itself, I found that the collision function was the most challenging to understand, but ultimately the most useful in terms of "gamification". Also, the different variations of draw function took me a while to figure out (especially when it comes to painting on top of an image); yet once I was able to figure that out it was very fun to implement! 
