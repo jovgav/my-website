@@ -25,7 +25,7 @@ let dw;
 let dh;
 
 function preload() {
-  img = loadImage('Exquisite_Corpse_-_Meatball_Head_2024_11_27_15_03_49/assets/meatball2.png');
+  img = loadImage('exquisite-corpse/assets/meatball2.png');
 }
 
 function setup() {
