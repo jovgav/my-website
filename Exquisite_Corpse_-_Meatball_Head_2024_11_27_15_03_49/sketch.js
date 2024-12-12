@@ -25,7 +25,7 @@ let dw;
 let dh;
 
 function preload() {
-  img = loadImage('../assets/meatball2.png');
+  img = loadImage('assets/meatball2.png');
 }
 
 function setup() {
