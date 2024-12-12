@@ -19,15 +19,15 @@ let collisionPoints = [
 ];
 
 function preload() {
-  img = loadImage('/my_game_2024_11_26_23_23_49/assets/palm.png'); 
-  img1 = loadImage('/my_game_2024_11_26_23_23_49/assets/search1.png');
-  img2 = loadImage('/my_game_2024_11_26_23_23_49/assets/search2.png');
-  img3 = loadImage('/my_game_2024_11_26_23_23_49/assets/search3.png');
-  img4 = loadImage('/my_game_2024_11_26_23_23_49/assets/search4.png');
-  img5 = loadImage('/my_game_2024_11_26_23_23_49/assets/search5.png');
-  img6 = loadImage('/my_game_2024_11_26_23_23_49/assets/search6.png');
-  img7 = loadImage('/my_game_2024_11_26_23_23_49/assets/search7.png');
-  playerImg=loadImage('/my_game_2024_11_26_23_23_49/assets/playerready.png'); 
+  img = loadImage('my_game_2024_11_26_23_23_49/assets/palm.png'); 
+  img1 = loadImage('my_game_2024_11_26_23_23_49/assets/search1.png');
+  img2 = loadImage('my_game_2024_11_26_23_23_49/assets/search2.png');
+  img3 = loadImage('my_game_2024_11_26_23_23_49/assets/search3.png');
+  img4 = loadImage('my_game_2024_11_26_23_23_49/assets/search4.png');
+  img5 = loadImage('my_game_2024_11_26_23_23_49/assets/search5.png');
+  img6 = loadImage('my_game_2024_11_26_23_23_49/assets/search6.png');
+  img7 = loadImage('my_game_2024_11_26_23_23_49/assets/search7.png');
+  playerImg=loadImage('my_game_2024_11_26_23_23_49/assets/playerready.png'); 
 }
 
 function setup() {
