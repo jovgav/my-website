@@ -25,7 +25,7 @@ function preload() {
   img3 = loadImage('game/assets/search4.png');
   img4 = loadImage('game/assets/search5.png');
   img5 = loadImage('game/assets/search6.png');
-  img6 = loadImage('gameassets/search7.png');
+  img6 = loadImage('game/assets/search7.png');
   img7 = loadImage('game/assets/palm.png');
   playerImg=loadImage('game/assets/playerready.png'); 
 }
