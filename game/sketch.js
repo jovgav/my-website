@@ -19,14 +19,14 @@ let collisionPoints = [
 ];
 
 function preload() {
-  img = loadImage('game/assets/palm.png'); 
+  img = loadImage('game/assets/search7.png'); 
   img1 = loadImage('game/assets/search1.png');
   img2 = loadImage('game/assets/search2.png');
   img3 = loadImage('game/assets/search3.png');
   img4 = loadImage('game/assets/search4.png');
   img5 = loadImage('game/assets/search5.png');
   img6 = loadImage('gameassets/search6.png');
-  img7 = loadImage('game/assets/search7.png');
+  img7 = loadImage('game/assets/palm.png');
   playerImg=loadImage('game/assets/playerready.png'); 
 }
 
